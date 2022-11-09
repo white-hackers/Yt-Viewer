@@ -142,7 +142,7 @@ def update_chrome_version():
 
 
 def check_update():
-    api_url = 'https://api.github.com/repos/ releases/latest'
+    api_url = 'https://api.github.com/repos/white-hackers/Yt-Viewer/releases/latest'
     response = requests.get(api_url, timeout=30)
 
     RELEASE_VERSION = response.json()['tag_name']
