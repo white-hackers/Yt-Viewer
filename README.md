@@ -26,5 +26,5 @@
  * Хороший список прокси-серверов (http, https, socks4, socks5)
  * Google Chrome, установленный в вашей операционной системе (не Chromium)
 <p align="center">
-[![Watch the video]([https://i.imgur.com/vKb2F1B.png](https://i.imgur.com/cLTeGjg.jpg])([https://youtu.be/vt5fpE0bzSY](https://youtu.be/B-K70sg7EI8)]
+[![Watch the video](https://i.imgur.com/cLTeGjg.jpg)](https://youtu.be/B-K70sg7EI8)
 </p>
