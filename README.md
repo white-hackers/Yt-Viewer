@@ -25,6 +25,7 @@
  * Высокоскоростное подключение к Интернету
  * Хороший список прокси-серверов (http, https, socks4, socks5)
  * Google Chrome, установленный в вашей операционной системе (не Chromium)
-<p align="center">
+
+# Видео инструкция
+  
 [![Watch the video](https://i.imgur.com/cLTeGjg.jpg)](https://youtu.be/B-K70sg7EI8)
-</p>
