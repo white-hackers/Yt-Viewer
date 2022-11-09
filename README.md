@@ -1,12 +1,13 @@
 <p align="center">
   Скачено с форума <a href="https://slivator.com/" arget="_blank">slivator.com</a>
 </p>
+<p align="center">
 
 █████████████████████████████████████████████████████████████████████
 █─▄▄▄▄█▄─▄███▄─▄█▄─█─▄██▀▄─██─▄─▄─█─▄▄─█▄─▄▄▀█████─▄▄▄─█─▄▄─█▄─▀█▀─▄█
 █▄▄▄▄─██─██▀██─███▄▀▄███─▀─████─███─██─██─▄─▄█░░██─███▀█─██─██─█▄█─██
 ▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▀▀▀▄▀▀▀▄▄▀▄▄▀▀▄▄▄▀▀▄▄▄▄▀▄▄▀▄▄▀▄▄▀▀▄▄▄▄▄▀▄▄▄▄▀▄▄▄▀▄▄▄▀
-
+</p>
 # YT Viewer
 Простая программа для увеличения просмотров на YouTube, написанная на Python. Работает и с прямой трансляцией.
 
@@ -14,15 +15,16 @@
 
 **Cons:** There will be some view drop always. 
 
-# Support
+# Донат
    Подумайте о пожертвовании, чтобы сохранить этот проект живым и за бесчисленные часы работы и тестирования :)
    
   **Qiwi карта :** 4890494763574571
 
-# Requirements
+# Требования
  * **Python 3.7.x-3.9.x**
  * Высокоскоростное подключение к Интернету
  * Хороший список прокси-серверов (http, https, socks4, socks5)
  * Google Chrome, установленный в вашей операционной системе (не Chromium)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B-K70sg7EI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center">
+[![Watch the video]([https://i.imgur.com/vKb2F1B.png](https://i.imgur.com/cLTeGjg.jpg))]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/B-K70sg7EI8))
+</p>
